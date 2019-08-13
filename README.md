@@ -41,7 +41,7 @@ mvn clean package
 Start the server by running:
 
 ```
-java -jar target/maven-ktor.jar
+java -jar target/ktor-maven.jar
 ```
 
 ### See the running application in a browser
