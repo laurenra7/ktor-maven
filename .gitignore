@@ -1,0 +1,12 @@
+# Editor directories and files
+.idea
+*.iml
+
+# Build directories and files
+target
+
+# Git directory
+.git
+
+# Other directories to ignore
+.DS_Store
